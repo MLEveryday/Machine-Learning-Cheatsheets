@@ -12,6 +12,9 @@
 
 ## 内容
 1. [有监督学习](/code/Supervised_Learning.md)
+
+<a href="https://github.com/MLEveryday/Machine-Learning-Cheatsheets/blob/master/pdf/Supervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="400px"/></a>
+
 2. 无监督学习
 3. 深度学习
 4. 提示和技巧
