@@ -20,7 +20,10 @@
 
 <a href="/pdf/Unsupervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="400px"/>
 
-3. 深度学习
+3. [深度学习](/code/Deep_Learning.md)
+
+<a href="/pdf/Deep_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="400px"/>
+
 4. 提示和技巧
 5. 概率与统计
 6. 代数与微积分
