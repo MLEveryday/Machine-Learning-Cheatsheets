@@ -24,6 +24,9 @@
 
 <a href="/pdf/Deep_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="400px"/>
 
-4. 提示和技巧
+4. [提示和技巧](/code/cheatsheet-machine-learning-tips-and-tricks.md)
+
+<a href="/pdf/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="400px"/>
+  
 5. 概率与统计
 6. 代数与微积分
