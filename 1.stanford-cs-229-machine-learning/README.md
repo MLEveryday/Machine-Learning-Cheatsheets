@@ -12,21 +12,21 @@
 - **各机器学习领域的备忘录**，还包括训练模型的提示和技巧。
 
 ## 内容
-1. [有监督学习](/code/Supervised_Learning.md)
+1. [有监督学习](code/Supervised_Learning.md)|[@zhyongquan](https://github.com/zhyongquan)
 
-<a href="/pdf/Supervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="400px"/></a>
+<a href="pdf/Supervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="400px"/></a>
 
-2. [无监督学习](/code/Unsupervised_Learning.md)
+2. [无监督学习](code/Unsupervised_Learning.md)|[@zhyongquan](https://github.com/zhyongquan)
 
-<a href="/pdf/Unsupervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="400px"/>
+<a href="pdf/Unsupervised_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="400px"/>
 
-3. [深度学习](/code/Deep_Learning.md)
+3. [深度学习](code/Deep_Learning.md)|[@zhyongquan](https://github.com/zhyongquan)
 
-<a href="/pdf/Deep_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="400px"/>
+<a href="pdf/Deep_Learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="400px"/>
 
-4. [提示和技巧](/code/cheatsheet-machine-learning-tips-and-tricks.md)
+4. [提示和技巧](code/cheatsheet-machine-learning-tips-and-tricks.md)|[@wengJJ](https://github.com/wengJJ)
 
-<a href="/pdf/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="400px"/>
+<a href="pdf/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="400px"/>
   
-5. 概率与统计
-6. 代数与微积分
+5. 概率与统计|[@wengJJ](https://github.com/wengJJ) 
+6. 代数与微积分|[@zhyongquan](https://github.com/zhyongquan)
