@@ -20,3 +20,5 @@
 | Tidyverse Cheat Sheet For Beginners                          |                                                      |
 | The data.table R Package Cheat Sheet                         |                                                      |
 | xts Cheat Sheet: Time Series in R                            |                                                      |
+
+已有中文版，这个项目暂停。
